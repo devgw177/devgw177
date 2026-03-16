@@ -19,6 +19,10 @@ API de Gerenciamento de Tarefas
 Sistema de Controle de Estoque  
 Dashboard de Análise de Dados
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgw177&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgw177&layout=compact)
+
 ## Contato
 
 LinkedIn: (www.linkedin.com/in/gabrieldv791)
