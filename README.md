@@ -1,16 +1,24 @@
-## Hi there 👋
+# Gabriel William
 
-<!--
-**devgw177/devgw177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação com foco em backend utilizando Java, Spring Boot e SQL.
 
-Here are some ideas to get you started:
+Tenho interesse em construir APIs e sistemas eficientes, além de explorar soluções baseadas em dados utilizando Power BI para análise e visualização de informações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+Java  
+Spring Boot  
+SQL  
+REST APIs  
+Git  
+Power BI
+
+## Projetos em desenvolvimento
+
+API de Gerenciamento de Tarefas  
+Sistema de Controle de Estoque  
+Dashboard de Análise de Dados
+
+## Contato
+
+LinkedIn: (www.linkedin.com/in/gabrieldv791)
