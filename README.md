@@ -54,15 +54,6 @@ Busco evoluir continuamente, transformando estudo em projetos cada vez mais sól
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgw177&show_icons=true&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=E5E7EB&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgw177&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=E5E7EB&bg_color=0D1117" />
-</p>
-
----
-
 ## 🌱 Foco atual
 
 - Java e Programação Orientada a Objetos
@@ -86,4 +77,4 @@ Busco evoluir continuamente, transformando estudo em projetos cada vez mais sól
 
 <p align="center">
   <i>Construindo um passo de cada vez, com consistência, prática e evolução.</i>
-</p>
+</p>            
