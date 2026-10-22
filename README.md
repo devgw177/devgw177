@@ -1,80 +1,50 @@
 <h1 align="center">Gabriel William</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+SQL;Construindo+APIs%2C+sistemas+e+solu%C3%A7%C3%B5es+orientadas+a+dados" alt="Typing SVG" />
+  <strong>Estudante de Ciência da Computação | Python | Desenvolvimento de Software</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Java-F59E0B?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Spring%20Boot-22C55E?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-REST-06B6D4?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-Power%20BI-FACC15?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou um desenvolvedor em formação com foco em **backend**, construindo projetos com **Java, Spring Boot e SQL**.
-
-Tenho interesse em desenvolver **APIs robustas**, sistemas organizados e soluções orientadas a dados, unindo **lógica**, **boas práticas de desenvolvimento** e **análise de informações com Power BI**.
-
-Busco evoluir continuamente, transformando estudo em projetos cada vez mais sólidos, úteis e bem estruturados.
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,github,vscode,idea" />
+  Aprendendo a construir soluções reais, com interesse em inteligência artificial e machine learning.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-0891B2?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-FACC15?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/gabrieldv791/">LinkedIn</a>
 </p>
 
 ---
 
-## 📌 Projetos em desenvolvimento
+## Sobre mim
 
-✨ Estes são alguns projetos que representam minha evolução prática:
+Sou estudante do **4º período de Ciência da Computação**, com foco atual nos fundamentos de programação em **Python**, lógica, algoritmos e construção de software.
 
-- ✅ **API de Gerenciamento de Tarefas**  
-  CRUD de tarefas com foco em boas práticas de backend.
+Tenho interesse de longo prazo em **inteligência artificial e machine learning**. Estou transformando meus estudos em projetos pequenos, funcionais, testados e documentados.
 
-- ✅ **Sistema de Controle de Estoque**  
-  Gerenciamento de produtos, entradas e saídas.
+**Busco oportunidades de estágio e vagas de entrada em tecnologia**, nas quais possa contribuir, aprender e crescer em equipe.
 
-- ✅ **Dashboard de Análise de Dados**  
-  Visualização de indicadores e geração de insights com Power BI.
+## Em aprendizado
 
----
+- **Python:** variáveis, condições, entrada de dados, tipos, exceções e estruturas de repetição
+- **Fundamentos:** lógica de programação, decomposição de problemas e testes
+- **Ferramentas de desenvolvimento:** Git, GitHub e Visual Studio Code
+- **Próximos passos:** funções, estruturas de dados, SQL, APIs e testes automatizados
 
-## 🌱 Foco atual
+## Projeto em preparação: NexusDesk
 
-- Java e Programação Orientada a Objetos
-- Spring Boot
-- APIs REST
-- Banco de Dados SQL
-- Boas práticas de backend
-- Power BI
+**NexusDesk** será um sistema de gerenciamento de chamados de suporte técnico, desenvolvido progressivamente como projeto de aprendizado.
 
----
+**Plano de evolução:**
+1. Registro e consulta de chamados pelo terminal usando Python
+2. Organização dos dados e armazenamento persistente
+3. Testes automatizados e API
+4. Interface e, futuramente, recursos experimentais de IA
 
-## 📫 Contato
+> Status: **planejamento e aprendizado inicial**. As funcionalidades serão documentadas somente depois de implementadas e testadas.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrieldv791">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20William-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## Como trabalho
+
+Procuro compreender os problemas antes de escrever código, testar minhas hipóteses e registrar o que aprendo. Meu objetivo é construir um portfólio baseado em evidências reais, não apenas em listas de tecnologias.
 
 ---
 
-<p align="center">
-  <i>Construindo um passo de cada vez, com consistência, prática e evolução.</i>
-</p>            
+<p align="center"><em>Aprender. Construir. Testar. Melhorar.</em></p>
