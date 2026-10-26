@@ -1,50 +1,64 @@
-<h1 align="center">Gabriel William</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Estudante de Ciência da Computação | Python | Desenvolvimento de Software</strong>
-</p>
+# Gabriel William
 
-<p align="center">
-  Aprendendo a construir soluções reais, com interesse em inteligência artificial e machine learning.
-</p>
+**Ciência da Computação · Desenvolvimento de Software · Python**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrieldv791/">LinkedIn</a>
-</p>
+Estudante de Ciência da Computação, construindo projetos reais para desenvolver minhas habilidades em programação, lógica e resolução de problemas.
+
+[**LinkedIn**](https://www.linkedin.com/in/gabrieldv791/) · [**Projeto NexusDesk**](https://github.com/devgw177/NexusDesk)
+
+</div>
 
 ---
 
 ## Sobre mim
 
-Sou estudante do **4º período de Ciência da Computação**, com foco atual nos fundamentos de programação em **Python**, lógica, algoritmos e construção de software.
+Estou em formação na área de tecnologia e busco oportunidades de **estágio e posições de entrada em TI**, especialmente em desenvolvimento de software e suporte a sistemas.
 
-Tenho interesse de longo prazo em **inteligência artificial e machine learning**. Estou transformando meus estudos em projetos pequenos, funcionais, testados e documentados.
+Tenho experiência anterior em atividades administrativas e atendimento ao público, que fortaleceram minha comunicação, organização e atenção a processos. Atualmente, meu foco é aprender com a construção de soluções pequenas, testáveis e documentadas.
 
-**Busco oportunidades de estágio e vagas de entrada em tecnologia**, nas quais possa contribuir, aprender e crescer em equipe.
+Tenho interesse de longo prazo em **inteligência artificial e machine learning**, áreas nas quais pretendo me aprofundar à medida que consolido os fundamentos de programação.
 
-## Em aprendizado
+## Projeto em destaque
 
-- **Python:** variáveis, condições, entrada de dados, tipos, exceções e estruturas de repetição
-- **Fundamentos:** lógica de programação, decomposição de problemas e testes
-- **Ferramentas de desenvolvimento:** Git, GitHub e Visual Studio Code
-- **Próximos passos:** funções, estruturas de dados, SQL, APIs e testes automatizados
+### [NexusDesk — Sistema de chamados de suporte técnico](https://github.com/devgw177/NexusDesk)
 
-## Projeto em preparação: NexusDesk
+**Python · Aplicação de terminal · Em desenvolvimento — versão 0.3**
 
-**NexusDesk** será um sistema de gerenciamento de chamados de suporte técnico, desenvolvido progressivamente como projeto de aprendizado.
+O NexusDesk é meu projeto de aprendizado prático: um sistema que permite registrar chamados de suporte técnico e evolui a cada entrega documentada.
 
-**Plano de evolução:**
-1. Registro e consulta de chamados pelo terminal usando Python
-2. Organização dos dados e armazenamento persistente
-3. Testes automatizados e API
-4. Interface e, futuramente, recursos experimentais de IA
+**Funcionalidades implementadas**
+- Cadastro de solicitante, descrição do problema e prioridade.
+- Registro de múltiplos chamados na mesma execução.
+- Numeração sequencial dos chamados.
+- Validação de campos obrigatórios e das prioridades permitidas.
 
-> Status: **planejamento e aprendizado inicial**. As funcionalidades serão documentadas somente depois de implementadas e testadas.
+**Acompanhe a evolução:** [Código](https://github.com/devgw177/NexusDesk/blob/main/main.py) · [Documentação](https://github.com/devgw177/NexusDesk#readme) · [Issues](https://github.com/devgw177/NexusDesk/issues)
 
-## Como trabalho
+> **Estado atual:** aplicação de terminal sem armazenamento permanente. Banco de dados, consulta ao histórico, testes automatizados e API são possíveis etapas futuras, ainda não implementadas.
 
-Procuro compreender os problemas antes de escrever código, testar minhas hipóteses e registrar o que aprendo. Meu objetivo é construir um portfólio baseado em evidências reais, não apenas em listas de tecnologias.
+## Conhecimentos em desenvolvimento
+
+| Área | Conhecimentos |
+| --- | --- |
+| Programação prática | Python: variáveis, condicionais, laços, entradas e validações |
+| Linguagens em estudo | Fundamentos de Java e JavaScript |
+| Ferramentas | Git, GitHub e Visual Studio Code |
+| Próximos tópicos | Estruturas de dados, funções, SQL e APIs |
+
+## Como estou construindo meu portfólio
+
+**Entender o problema → implementar → testar → documentar → publicar.**
+
+Prefiro apresentar o que consigo demonstrar no código e explicar em uma entrevista. Este perfil acompanhará a evolução real das minhas habilidades e dos meus projetos.
 
 ---
 
-<p align="center"><em>Aprender. Construir. Testar. Melhorar.</em></p>
+<div align="center">
+
+**Aprender · Construir · Testar · Melhorar**
+
+[Entre em contato pelo LinkedIn](https://www.linkedin.com/in/gabrieldv791/)
+
+</div>
